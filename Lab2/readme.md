@@ -21,10 +21,19 @@ You input the items into system by scannig them and input them onto your bill. T
 
 ## Logic Gates and Circuits
 
-Explain what is meant by a truth table and apply your knowledge to a NAND gate.  How does the NAND gate truth table compare to that of an AND gate? 
 A truth table shows the outputs from all possible combinations of inputs. A NAND gate is a Negated AND gate.The output of a NAND gate is true when one or more of its inputs are false. If all of a NAND gate's inputs are true then the output of the NAND gate is false. NAND truth table is the exact opposite of AND truth table.
 
 ## IEEE
+the importance of ethics in device desig
+IEEE's purpose is to foster technological innovation and excellence for the benefit of humanity. It is important to have ethics in device design because they affect accountability, value alignment, explainability, fairness, and user data rights.
 
-IEEE's purpose is to foster technological innovation and excellence for the benefit of humanity.
+# Data Representation
+
+Binary numbers are only made of 0's and 1's, and the radix for each digit or value is a power of two. Decimal numbers range from 0-9, and have a radix of a power of ten for each digit or value. Hexadecimal uses 0-9 and the letters A-F, and the radix for each digit or value is also two.
+
+
+
+## Numeric Conversions
+
+## Hexadecimal Color Representation
 # Conclusion
