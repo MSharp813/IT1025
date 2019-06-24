@@ -40,14 +40,19 @@ Binary numbers are only made of 0's and 1's, and the radix for each digit or val
  112 decimal -> binary
 2^6 2^5 2^4 2^3 2^2 2^1 2^0 
  64 32  16  8    4   2   1
+ 
  |  |   |   |    |   |   |
+ 
  1  1   1   0    0   0   0
+ 
  1110000 = 112
 
 ### Binary Conversion
 
  1   1   1   0   1   0   1   0
+ 
  |   |   |   |   |   |   |   |
+
 2^7 2^6 2^5 2^4 2^3 2^2 2^1 2^0
 128 +64 +32 +0  +8  +0   +2 +0
 = 234
