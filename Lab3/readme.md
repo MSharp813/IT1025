@@ -17,3 +17,6 @@ The problems that were solved with vrtualzation of companies could partition the
 Pseudocode is an informal way of programming description that does not require any strict programming language syntax or underlying technology. Python being a simple and minimalistic language gives it a pseudo-code nature. 
 
 A program written in a compiled language  is converted from the source language into a language that is spoken by your computer using a compiler with various flags and options. An interpreted language, like Python, is any programming language that isn't already in "machine code" prior to runtime.
+
+# Career Exploration
+
