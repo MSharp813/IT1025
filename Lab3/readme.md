@@ -1,5 +1,7 @@
 # Executive Summary
 
+The purpose of unit 3 is to learn about software, visualization, python, and explore careers. It was learned during this lesson the difference between operating systems, utility software, and application software. What can also be taken away is the purpose of the ERP system and the purpose of visualization and the problems that it solves. In this unit, a little bit of Python was written, and careers in the IT field was learned about.
+
 # Software
      
 Operating systems manage the hardware and create the interface between the hardware and the user. An example of an operating system is Android. Application software is the category of programs that do something useful for the user. An example of application softtware is Google Chrome. Utility software includes software that allows you to fix or modify your computer in some way. Antivirus software is an example of utility software.
@@ -49,3 +51,7 @@ The mission of the Collegiate Cyber Defense Competition (CCDC) system is a compe
 ACM-W supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
 
 IEEE's core purpose is to foster technological innovation and excellence for the benefit of humanity. 
+
+# Conclusion
+
+In this unit we learned about software, visualization, python, and careers in the IT and programming field.
