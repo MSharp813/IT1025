@@ -1,5 +1,7 @@
 # Executive Summary
 
+In Lab4 we learned about Python and Graphics. We did some coding in python and learned about the interactive shell and the file editor. We learned important terms in graphics such as raster vs. vector and the difference between lossy and lossless compression.
+
 # Python IDLE
 
 The differences between the Interactive Shell and the File Editor are that the Interactive Shell runs code one instruction at a time and the File Editor is where you write entire programs. 
@@ -31,6 +33,8 @@ GIF allows for animated images unlike the others. JPEG uses lossy compression wh
 
 ## File Properties
 
-The image is suppose to be two diamonds/rhombuses that also has a M in between them. There were four layers required to make this image.
+The image is suppose to be two diamonds/rhombuses that also has a M in between them. There were four layers required to make this image. The file is 83 KB and opens with Internet Explorer or Google Chrome. I believe google chrome is the better option to open the image with.
 
 # Conclusion
+
+We learned about Python and Graphics in this lab.
