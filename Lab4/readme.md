@@ -29,4 +29,8 @@ It matters to developers that they use lossless or lossy compression because los
 gif, jpeg, and png similarites and differences:
 GIF allows for animated images unlike the others. JPEG uses lossy compression whild PNG uses lossless.
 
+## File Properties
+
+The image is suppose to be two diamonds/rhombuses that also has a M in between them. There were four layers required to make this image.
+
 # Conclusion
