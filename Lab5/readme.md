@@ -1,3 +1,7 @@
+# Executive Summary
+
+With this lab we have learned how to use Lucidchart, a little about networking, cyber security, and encryption. We also made a model of a network topology, did some encrypting and decrypting, learned about brute-force attacks, etc. 
+
 # Lucidchart
 
 I liked using the Lucidchart. It helps in the planning phase of making a website.Those who are plnning to  make a website could use this to help them.
@@ -56,3 +60,7 @@ In the frequency fingerprint encryption the letters you typed in the message wer
 A brute-force attack tries every possible decryption key for a cipher. Kerckhoffs’s principle states that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext. Kerckhoff believes that a ciphr should still be secure even if there is a brute force attack.
 
 A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets.
+
+# Conclusion
+
+With this lab we have learned how to use Lucidchart, a little about networking, cyber security, and encryption.
