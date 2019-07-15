@@ -27,3 +27,32 @@ Infrastructure topology has a combination of wired and wireless connections and 
 
 I designed my network like a infrastructure topology. The router has a wired connection between the two computers and the printer and a wireless connection with the wireless access point.
 
+## NSA/CSS
+
+The National Security Agency/Central Security Service (NSA/CSS) leads the U.S. Government in cryptology that encompasses both signals intelligence (SIGINT) cybersecurity products and services, and enables computer network operations (CNO) in order to gain a decision advantage for the Nation and our allies under all circumstances.
+
+#  Cybersecurity and Encryption
+
+## Information Systems Security
+
+If I was a part of the Amazon.com online chat I would have to make sure that peoples sensitive information would be protected and restricted from any unauthorized people. I would also need to have integrity to not alter the information I have accessed. I would also have to make sure that the servers would be available twenty-four hours a day, seven days a week. 
+
+Unlocking an iphone, logging in to a computer, and withdrawing money from an ATM all require authentication. They could be converted to multi-factor authentication by asking for a finger print and a passcode for iphone, a facial scan and a password for unlocking a computer, and a ask for a pin and the card for the ATM. 
+
+An access control list, or ACL is when a list of users who have the ability to take specific actions can be created
+for each information resource that an organization wishes to manage. ACLs are simple to understand and maintain, but each information resource is managed separately, so if a security administrator wanted to add or remove a user to a large set of information resources, it would be quite difficult. And as the number of users and resources increase, ACLs become harder to maintain.
+With RBAC, instead of giving specific users access rights to an information resource, users are assigned to roles and then those roles are assigned the access. This allows the administrators to manage users and roles separately, simplifying administration and, by extension, improving security.
+To send an encrypted message, you obtain the public key, encode the message, and send it. The recipient then uses the private key to decode it.
+We need public key encryption to help with cybersecurity. Public key enryption makes it harder for unauthorized people to get other's personal information.
+
+# Cryptography
+
+In Caesar Cipher the encryption message changed based on the number which shifted the letters so each letter stood for a different letter. Hello with a shift of four is Khoor.
+
+In the frequency fingerprint encryption the letters you typed in the message were used to fill up a bar the messured how many times you typed in the message. The only difference it would have in a different language would be the letters. Hello in this encryption would fill up the h, e, and o bar once and the l bar twice. Typing jdqnn with a shift word of bye leaves the decrypted message as hello.
+
+## Brute-Force
+
+A brute-force attack tries every possible decryption key for a cipher. Kerckhoffs’s principle states that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext. Kerckhoff believes that a ciphr should still be secure even if there is a brute force attack.
+
+A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets.
