@@ -29,3 +29,15 @@ You should secure your web browser because not securing your web browser can lea
 
 Tim Berners-Lee was the inventor of the World Wide Web and Director. The organization was created to foster compatibility and agreement among industry members in the adoption of new standards defined by the W3C.
 Web Architecture is important because it is today the foundation of the majority of network traffic worldwide, every single device, app, service are using web based communication.
+
+## HTML5 and CSS
+
+I made my website about memes and I made it by following the tutorial.
+
+## HTML and XML
+
+The difference HTML is a standard markup language for creating web pages and web applications while XML is a markup language that defines a set of rules for encoding documents in a format that is both human and machine readable.
+
+# Components of a URL
+
+
