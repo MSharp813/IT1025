@@ -1,3 +1,7 @@
+# Executive Summary
+
+In this lab we learned about the Internet Architecture, HTML5, CSS, URLs, and File Paths. We learned about IP addresses, TCP/IP, the importance of internet security and securing your web browser, and we learned how to code using HTML.
+
 # Internet Architecture
 
 ## IP Protocol
@@ -47,4 +51,6 @@ default page: no file path provided
 parameters:  result of search
 anchor: specific location on a page
 
+# Conclusion
 
+In this lab we learned about the Internet Architecture, HTML5, CSS, URLs, and File Paths.
