@@ -40,4 +40,11 @@ The difference HTML is a standard markup language for creating web pages and web
 
 # Components of a URL
 
+scheme: https; Every URL begins with the scheme. This tells the browser what type of address it is so the browser connects to it correctly. 
+domain: www.amazon.com ; The domain name is the most prominent part of a web address. Typically, different pages on the same site will continue to use the same domain name
+top level domain: .edu; Each segment of the domain name separated by a period is called a domain. The domain on the right is called a top-level domain
+default page: no file path provided
+parameters:  result of search
+anchor: specific location on a page
+
 
