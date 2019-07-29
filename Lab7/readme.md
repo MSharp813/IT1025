@@ -22,5 +22,9 @@ Add a third shark and name it your name.  Use either method when you "call" your
 
 Upload a screenshot of your completed program and program run (place the windows side by side) in a file named SharkObjects to your GitHub lab folder. 
  
+ Finish 2
+ 
 # Unified Modeling Language (UML)
 
+OMG or Object Management Group is a not-for-profit computer industry specifications consortium whose members define and maintain the UML specification.
+The purpose of UML is to specify, construct, and document the artifacts of systems.
