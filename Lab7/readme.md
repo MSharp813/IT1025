@@ -1,3 +1,7 @@
+# Executive Summary
+
+This lab learned about file compression, object oriented programming, and unified modeling language. During this lab we compressed files, programmed using object oriented programming in python idle, and used unified modeling language.
+
 # File Compression
 
 File compression is used to make an original file smaller. The purpose of file compression is to use less desk space. 
@@ -21,3 +25,7 @@ object = Sammy; because in the shark program, sammy represented a basic building
 inheritence = swim(self); because in the shark program, swim(self) was used to make a new class from an existing one.
 abstraction = a specific type of shark;
 encapsulation = definition of a shark; 
+
+# Conclusion
+
+This lab learned about file compression, object oriented programming, and unified modeling language.
