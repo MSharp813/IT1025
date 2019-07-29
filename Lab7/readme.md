@@ -10,21 +10,14 @@ The methods of the shark class is swimming and being awesome.
 The purpose of the constructor is to use to initialize data.
 A class is like a blueprint or a prototype that you can define to use to create objects while an object is an instance of a class. This is the realized version of the class, where the class is manifested in the program. To instantiate an object from a class is to create an instance of an object in an object-oriented programming (OOP) language.
 
-Traverse to the Python IDLE on your computer as in the "Python IDLE" module: 
- 
- 
-
-Create the program in the tutorial. Be sure to comment each section to document the purpose of your code.   
- 
-
-Add a third shark and name it your name.  Use either method when you "call" your shark. 
- 
-
-Upload a screenshot of your completed program and program run (place the windows side by side) in a file named SharkObjects to your GitHub lab folder. 
- 
- Finish 2
  
 # Unified Modeling Language (UML)
 
 OMG or Object Management Group is a not-for-profit computer industry specifications consortium whose members define and maintain the UML specification.
 The purpose of UML is to specify, construct, and document the artifacts of systems.
+
+class = shark; because in the shark program, shark was the blue print of the object.
+object = Sammy; because in the shark program, sammy represented a basic building block.
+inheritence = swim(self); because in the shark program, swim(self) was used to make a new class from an existing one.
+abstraction = a specific type of shark;
+encapsulation = definition of a shark; 
