@@ -12,3 +12,16 @@ It is important to properly define the data type of a field because if a field s
 
 The four Vs of Big Data are volume, velocity, variety, and veracity. Volume represents the amount of data and is one of the main characteristics that makes data “big”. Velocity represents the motion of the data. Variety defines different types of data and data resources. Veracity can be termed as the trustworthiness of the data.
 Banks across the world that has used Big Data technology to ensure customer loyalty, cricket websites like ESPN and Cricbuzz that has been able to predict how the bowler will bowl or what kind of shot a batsman will play, and Retail and E-commerce industries using Big Data for the prediction of product demands, for analyzing consumer behavior patterns etc. drives the need for increased Big Data.
+
+# Structured Query Language
+
+A Relational database management system (RDBMS) is a database management system (DBMS) that is based on the relational mode. The purpose of SQL is to access and manipulate databases.     
+The primary key for the employees and orders table is the EmployeeID. The foreign keys are OrderID, CustomerID, and EmployeeID. The meaning of the relationship between the tables is the fact that orders is the step after employees.
+
+    Create the SQL statement to: show all of the fields from the Products table ordered by ProductName.  Take a screenshot of your result (be sure to include your SQL Statement and several rows of the output.)  Name your file SQLProducts and upload to your lab folder on GitHub. 
+     
+
+    Create the SQL statement to: show CustomerName, City and Country from the Customers table where the Country is Germany.  Take a screenshot of your result (be sure to include your SQL Statement and several rows of the output.) Name your file SQLCustomers and upload to your lab folder on GitHub. 
+     
+
+
