@@ -17,11 +17,6 @@ Banks across the world that has used Big Data technology to ensure customer loya
 
 A Relational database management system (RDBMS) is a database management system (DBMS) that is based on the relational mode. The purpose of SQL is to access and manipulate databases.     
 The primary key for the employees and orders table is the EmployeeID. The foreign keys are OrderID, CustomerID, and EmployeeID. The meaning of the relationship between the tables is the fact that orders is the step after employees.
-
-    Create the SQL statement to: show all of the fields from the Products table ordered by ProductName.  Take a screenshot of your result (be sure to include your SQL Statement and several rows of the output.)  Name your file SQLProducts and upload to your lab folder on GitHub. 
-     
-
-    Create the SQL statement to: show CustomerName, City and Country from the Customers table where the Country is Germany.  Take a screenshot of your result (be sure to include your SQL Statement and several rows of the output.) Name your file SQLCustomers and upload to your lab folder on GitHub. 
-     
+A successful SQL injection attack can result in confidential data being deleted, lost or stolen; websites being defaced; unauthorized access to systems or accounts and, ultimately, compromise of individual machines or entire networks. To prevent SQL injection you should use input validation, not construct queries with user input, Update and patch often, use firewalls, etc.
 
 
